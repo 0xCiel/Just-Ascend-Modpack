@@ -13,4 +13,4 @@ shit performance with 400+ mods
 Recommended memory: 8gb
 Recommended cpu: 4 core 8 thread 
 
-expect crashes or performance issues as this modpack is not properly configured
+expect crashes or performance issues as this modpack is not properly configured and poorly optimized
