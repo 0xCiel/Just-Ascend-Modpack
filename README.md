@@ -1,2 +1,10 @@
 # v0.0.1 Super Alpha
 currently being developed.
+
+
+# Just Ascend
+An open world survival rpg modpack with intense enemies and bosses, combat require skill bosses are ferociuos and difficult with some magic and tech
+
+this modpack focuses on epic fight and overpowered bosses that can even kill you in creative mode (like the witherzilla)
+
+shit performance with 400+ mods
