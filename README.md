@@ -8,7 +8,7 @@ currently there's no progression guide or any quest lines cuz im lazy
 
 this modpack focuses on epic fight and overpowered bosses that can even kill you in creative mode (like the witherzilla)
 
-shit performance with 400+ mods
+shit performance with 500+ mods
 
 Recommended memory: 8gb
 Recommended cpu: 4 core 8 thread 
