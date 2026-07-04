@@ -10,8 +10,8 @@ this modpack focuses on epic fight and overpowered bosses that can even kill you
 
 shit performance with 500+ mods
 
-Recommended memory: 10gb
-Recommended cpu: 4 core 8 thread 
+Recommended memory: 16gb
+Recommended cpu: 6 core 8 thread 
 
 I recommend using chunky to pregen chunks first because chunk generation is very laggy
 
